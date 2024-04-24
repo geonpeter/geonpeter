@@ -13,9 +13,8 @@ I am a highly motivated individual with a diverse background in the field of dat
 
 ### Experience
 
-- **Document Specialist:** WilliamsLea Cochin, India
-- **Database Developer:** Nasser S Al-Hajiri Ltd, Qatar
-- **Database Administrator:** Khalifa Juma Al-Naboodha, Dubai, UAE
+- **IT Administrator:** Nasser S Al-Hajiri Ltd, Qatar
+- **QHSE Data Analyst:** Khalifa Juma Al-Naboodha, Dubai, UAE
 - **Data Analyst:** WestLink Engineering , Dubai,UAE
 
 ### Job Search
