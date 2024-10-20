@@ -1,4 +1,4 @@
-## Hi there 👋 I am Geon Peter
+# Hi there 👋 I am Geon Peter
 
 # 💫About Me :
 - 🎓 Master’s student in Data Science Engineering
