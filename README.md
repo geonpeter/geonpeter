@@ -13,11 +13,11 @@
 <div align="center">
 
 ### 💫 About Me :
-- 🎓 **Master’s student** pursuing Data Science Engineering.
-- 📊 Passionate **Data Analyst** with expertise in transforming raw data into insights.
-- 🛠️ Diving into **Data Engineering** to master full-stack data pipelines.
-- 💻 Exploring **Ethical Hacking** and cybersecurity in my free time.
-- 🌟 Dedicated to sharing personal projects and experiments with the community.
+- 🎓 **Master’s student** pursuing Data Science Engineering  
+- 📊 Passionate **Data Analyst** with expertise in transforming raw data into insights  
+- 🛠️ Diving into **Data Engineering** to master full-stack data pipelines  
+- 💻 Exploring **Ethical Hacking** and cybersecurity in my free time  
+- 🌟 Dedicated to sharing personal projects and experiments with the community  
 
 </div>
 
@@ -61,23 +61,20 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/datablist/website-assets/main/images/blog/apache-spark/Apache%20Spark%20Big%20Data%20Logo.svg" alt="Data Engineering" width="500px"/>
-</div>
-
----
 
 ## AWS Skills:
-- **AWS Networking** 
-- **Lambda**
-- **SNS**
-- **SQS**
-- **EventBridge**
-- **RDS**
-- **Glue**
-- **Redshift**
-- **Step Functions**
-- **Athena**
+
+![AWS Networking](https://img.shields.io/badge/AWS%20Networking-%2300BFFF.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%236F5FFF.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![AWS SNS](https://img.shields.io/badge/AWS%20SNS-%2322B86D.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![AWS SQS](https://img.shields.io/badge/AWS%20SQS-%23474C8D.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![AWS EventBridge](https://img.shields.io/badge/AWS%20EventBridge-%23E7F2FB.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-%23A93D40.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![AWS Redshift](https://img.shields.io/badge/AWS%20Redshift-%23A1B2A4.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![AWS Step Functions](https://img.shields.io/badge/AWS%20Step%20Functions-%23D5C36C.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![AWS Athena](https://img.shields.io/badge/AWS%20Athena-%236F66DA.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 ---
 
@@ -86,18 +83,14 @@
 ![SQL](https://img.shields.io/badge/SQL%20Data%20Analytics-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
 <div align="center">
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats :
 
   <img src="https://github-readme-stats.vercel.app/api?username=geonpeter&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geonpeter&theme=radical&hide_border=false" alt="GitHub Streak Stats"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geonpeter&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-
-</div>
-
----
+  <img src="https://github-readme-stats.vercel
