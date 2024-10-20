@@ -10,27 +10,30 @@
 
 ---
 
-<div align="center">
 
-### 💫 About Me :
+
+### 💫 **About Me** 💫
+
+
+
+
 - 🎓 **Master’s student** pursuing Data Science Engineering  
 - 📊 Passionate **Data Analyst** with expertise in transforming raw data into insights  
 - 🛠️ Diving into **Data Engineering** to master full-stack data pipelines  
 - 💻 Exploring **Ethical Hacking** and cybersecurity in my free time  
-- 🌟 Dedicated to sharing personal projects and experiments with the community  
+- 🌟 Dedicated to sharing personal projects and experiments with the community
 
-</div>
 
 ---
 
-## 🌐 Connect with me:
+### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geonpeter)
 
 ---
 
 <div align="left">
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -62,7 +65,7 @@
 ---
 
 
-## AWS Skills:
+### AWS Skills:
 
 ![AWS Networking](https://img.shields.io/badge/AWS%20Networking-%2300BFFF.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%236F5FFF.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -91,7 +94,7 @@
 
 <div align="center">
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 
   <img src="https://github-readme-stats.vercel.app/api?username=geonpeter&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geonpeter&theme=radical&hide_border=false" alt="GitHub Streak Stats"/><br/>
