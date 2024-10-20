@@ -1,11 +1,11 @@
 ## Hi there 👋 I am Geon Peter
 
 # 💫About Me :
-🎓 Master’s student in Data Science Engineering
-📊 Passionate Data Analyst with a knack for transforming raw data into actionable insights
-🛠️ Exploring Data Engineering to master the full data pipeline
-💻 Enthusiast of Ethical Hacking and cybersecurity in my free time
-🌟 Sharing my personal projects and experiments with the tech community
+- 🎓 Master’s student in Data Science Engineering
+- 📊 Passionate Data Analyst with a knack for transforming raw data into actionable insights
+- 🛠️ Exploring Data Engineering to master the full data pipeline
+- 💻 Enthusiast of Ethical Hacking and cybersecurity in my free time
+- 🌟 Sharing my personal projects and experiments with the tech community
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geonpeter) 
