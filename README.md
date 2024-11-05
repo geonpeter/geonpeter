@@ -20,7 +20,7 @@
 - 🎓 **Master’s student** pursuing Data Science Engineering  
 - 📊 Passionate **Data Analyst** with expertise in transforming raw data into insights  
 - 🛠️ Diving into **Data Engineering** to master full-stack data pipelines  
-- 💻 Exploring **Ethical Hacking** and cybersecurity in my free time  
+- 💻 Exploring **  cybersecurity ** in my free time  
 - 🌟 Dedicated to sharing personal projects and experiments with the community
 
 
