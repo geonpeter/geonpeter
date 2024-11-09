@@ -103,3 +103,37 @@
 </div>
 
 ---
+## 📈 HackerRank Profile and Achievements
+
+Check out my [HackerRank Profile](https://www.hackerrank.com/profile/igeonpeter) for more details on my coding skills, badges, and certifications!
+
+|  | **HackerRank Statistics** |
+|----------------------------------------------------------|---------------------------|
+| **Username**                                             | igonepeter                |
+| **Badges Earned**                                        | Gold (SQL), Broze(Python) ... On going |
+| **Total Challenges Solved**                              | 48 Challenges             |
+| **Current Rank**                                         | 4,76                    |
+| **Points**                                               | 890                       |
+
+### 🎖️ Badges & Certificates
+| Badge/Certificate           | Description                           |
+|-----------------------------|---------------------------------------|
+| SQL (Intermediate)          | Completed challenges on SQL joins     |
+| Python                      | Demonstrated Python coding skills     |
+
+
+> 💡 **More to Explore**: I'm constantly working on new challenges to improve my skills. Keep an eye on my profile for more badges and certificates!
+
+---
+
+### 📊 HackerRank Badge Showcase
+
+<img src="https://img.shields.io/badge/SQL%20(Basic%20Join)-completed-green" alt="SQL Badge"/>
+<img src="https://img.shields.io/badge/Python-expert-blue" alt="Python Badge"/>
+<img src="https://img.shields.io/badge/30%20Days%20of%20Code-Completed-orange" alt="Python Basic Certification"/>
+<img src="https://img.shields.io/badge/Data%20Structures-certified-brightgreen" alt="SQL Intermediate Certification"/>
+
+---
+
+**Note**: Stats and badges are updated regularly as I solve new challenges. Connect with me on [HackerRank](https://www.hackerrank.com/profile/igeonpeter) to see more!
+
